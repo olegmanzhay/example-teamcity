@@ -1,5 +1,5 @@
 ## Конфигурация teamcity
-
+```
 Learn Kotlin DSL
 Portable
 
@@ -34,6 +34,7 @@ object Build : BuildType({
         }
     }
 })
+```
 
 ## ссылка на репо:
 https://github.com/olegmanzhay/example-teamcity
